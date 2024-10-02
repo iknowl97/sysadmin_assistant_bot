@@ -1,0 +1,4 @@
+telebot
+ping3
+asyncio
+requests
